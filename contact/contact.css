@@ -1,0 +1,59 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 50px
+}
+
+
+
+
+
+
+input {
+    border: none;
+    padding: 20px;
+    border-bottom: 2px solid white;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    outline: none;
+    width: 300px;
+    font-size: 18px;
+
+}
+
+
+button {
+    background-color: black;
+    transition-duration: 0.3s;
+    padding: 20px 50px;
+    border-radius: 5px;
+    border: 2px solid white;
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+
+form {
+    font-size: 20px;
+}
+
+#left-grid {
+    padding: 50px 0px 0px 200px;
+}
+
+#right-grid {
+    padding: 50px 0px 350px 100px;
+}
+
+
+
+
+
+

@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: black
+}
+
+.title {
+    margin: 75px 0px 50px 100px;
+    font-size: 50px;
+}
+
+
+#thumbnail {
+    height: 750px;
+    width: 575px;
+    object-fit: cover;
+    object-position: 10% 0;
+    opacity: 0.5;
+    transition-duration: 1s;
+}
+
+#thumbnail:hover {
+    opacity: 0.3;
+}
+
+.imageContainer {
+    position: relative;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;   
+}
+
+#imageText {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+}

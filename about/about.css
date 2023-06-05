@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+#top-left {
+    padding: 50px 0px 0px 150px;
+    animation: fadeIn 4s;
+    -webkit-animation: fadeIn 4s;
+    -moz-animation: fadeIn 4s;
+    -o-animation: fadeIn 4s;
+    -ms-animation: fadeIn 4s;
+}
+
+
+#top-right{
+    padding: 50px 0px 0px 75px;
+    animation: fadeIn 4s;
+    -webkit-animation: fadeIn 4s;
+    -moz-animation: fadeIn 4s;
+    -o-animation: fadeIn 4s;
+    -ms-animation: fadeIn 4s;
+} 
+
+#bottom-left {
+    padding: 250px 0px 50px 150px;
+    animation: fadeIn 4s;
+    -webkit-animation: fadeIn 4s;
+    -moz-animation: fadeIn 4s;
+    -o-animation: fadeIn 4s;
+    -ms-animation: fadeIn 4s;
+}
+
+#bottom-right {
+    padding: 250px 0px 50px 75px;
+    animation: fadeIn 4s;
+    -webkit-animation: fadeIn 4s;
+    -moz-animation: fadeIn 4s;
+    -o-animation: fadeIn 4s;
+    -ms-animation: fadeIn 4s;
+}
+
+
